@@ -45,4 +45,4 @@ python github-activity.py <username>
 ```
 
 ### Acknowledgement
-The project idea is taken from [roadmap.sh](https://roadmap.sh). Roadmaps to help you choose your path and grow in your career.
+The project idea is taken from [@roadmap.sh](https://roadmap.sh)/[github-user-activity](https://roadmap.sh/projects/github-user-activity). Roadmaps to help you choose your path and grow in your career.
