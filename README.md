@@ -1,4 +1,4 @@
-# roadmapsh-github-user-activity
+# roadmap-github-user-activity
 Use GitHub API to fetch user activity and display it in the terminal.
 
 ### Requirements
