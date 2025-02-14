@@ -11,6 +11,9 @@ Use GitHub API to fetch user activity and display it in the terminal.
 - Use a programming language of your choice to build this project.
 - Do not use any external libraries or frameworks to fetch the GitHub activity.
 
+### Screenshots
+![A screenshot running github-user-activity](screenshot.png)
+
 ### Tech stack
 - python
 - `requests` for making http requests
